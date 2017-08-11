@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Inlays">
+        <file>Inlays/skull_laydown.png</file>
+        <file>Inlays/skull.png</file>
+    </qresource>
+</RCC>
