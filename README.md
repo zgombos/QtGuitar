@@ -1,0 +1,2 @@
+# QtGuitar
+Guitar fretboard learning
